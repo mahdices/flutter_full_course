@@ -1,5 +1,7 @@
 # flutter_full_course
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OO_-MbnXQzY/0.jpg)](https://www.youtube.com/watch?v=OO_-MbnXQzY)
+
 A new Flutter project.
 
 ## Getting Started
